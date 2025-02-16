@@ -9,7 +9,7 @@
 
         settings = {
           shell = config.nebunix.defaultPrograms.shell;
-        
+
           tab_bar_style = "powerline";
           tab_powerline_style = "round";
           window_padding_width = 4;
