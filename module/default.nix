@@ -8,8 +8,6 @@
         enable = true;
 
         settings = {
-          font_family = config.nebunix.fonts.monospaceFont;
-        
           tab_bar_style = "powerline";
           tab_powerline_style = "round";
           window_padding_width = 4;
