@@ -1,8 +1,6 @@
 { config, systemInformation, ... }:
 
 {
-  nebunix.defaultPrograms.terminal = "kitty";
-
   home-manager.users."${systemInformation.userName}" =
     { ... }:
     {
